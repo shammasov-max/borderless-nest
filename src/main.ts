@@ -1,5 +1,5 @@
 import { NestFactory } from '@nestjs/core';
-import { HelloModule } from './hello/hello.module';
+import { HelloModule } from './routes/hello/hello.module';
 import { AppModule } from './app.module';
 
 async function bootstrap() {
@@ -7,6 +7,7 @@ async function bootstrap() {
     cors: false,
     snapshot:true
   });
+
   await app.listen(process.env.HTTP_PORT ?? 3000, '0.0.0.0');
 }
 bootstrap();

@@ -1,0 +1,1 @@
+{"version":3,"file":"subgraph-proxy.module.js","sourceRoot":"","sources":["subgraph-proxy.module.ts"],"names":[],"mappings":";;;;;;;;;AAAA,2CAAwC;AACxC,yCAAwD;AAExD,2EAAsE;AAS/D,IAAM,mBAAmB,GAAzB,MAAM,mBAAmB;CAAG,CAAA;AAAtB,kDAAmB;8BAAnB,mBAAmB;IAP/B,IAAA,eAAM,EAAC;QACN,OAAO,EAAE;YACP,kBAAU;SACX;QACD,WAAW,EAAE,CAAC,mDAAuB,CAAC;KAEvC,CAAC;GACW,mBAAmB,CAAG"}
